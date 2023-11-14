@@ -2,4 +2,4 @@
 Short News Headlines Web Application.
 
 # Live Link
-https://qtrip-dynamic-aakarshit.netlify.app/
+https://akarshit07-xboard.netlify.app/
